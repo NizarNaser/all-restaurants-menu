@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Dish Details</title>
+  <link rel="stylesheet" href="all-restaurants-menu/style.css" />
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar" >
+    <div class="nav-container">
+      <a href="all-restaurants-menu/index.html" class="logo">
+        <img src="all-restaurants-menu/images/logo.png" alt="Restaurant Logo">
+
+      </a>
+
+      <ul class="nav-links">
+        <li><a href="all-restaurants-menu/index.html">Home</a></li>
+
+        <li class="dropdown">
+          <a id="menu" href="#menu">Menu</a>
+          <ul class="dropdown-menu">
+            <li><a href="#bar" onclick="window.location.href='all-restaurants-menu/items.html?cat=Bar'">Bar</a></li>
+            <li><a href="#kitchen" onclick="window.location.href='all-restaurants-menu/items.html?cat=Kitchen'">Kitchen</a></li>
+            <li><a href="#favorites">Favorites</a></li>
+          </ul>
+        </li>
+
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a class="reservation-top-memu" href="#reservation" type="submit">Book Now</a></li>
+      </ul>
+
+      <div class="hamburger"><span>&#9776;</span><span>&#9776;</span><span>&#9776;</span></div>
+    </div>
+  </nav>
+  <!-- Full-width Hero Image -->
+  <div class="dish-hero scroll-reveal" style="background-image: url('images/burger.jpg');"></div>
+
+  <!-- Dish Details Container -->
+  <section class="dish-container scroll-reveal">
+
+    <!-- Image -->
+    <div class="dish-image">
+      <img src="all-restaurants-menu/images/burger.jpg" alt="Dish Image" />
+    </div>
+
+    <!-- Text Content -->
+    <div class="dish-content">
+      <h2>Delicious Dish Name</h2>
+
+      <p class="dish-description">
+        A tasty description of the dish, talking about the ingredients, preparation, and the unforgettable flavor. You can enjoy this dish any time of day.
+      </p>
+
+      <!-- Star Rating -->
+      <div class="rating">
+        <i>⭐</i>
+        <i>⭐</i>
+        <i>⭐</i>
+        <i>⭐</i>
+        <i>⭐</i>
+        <span style="font-size: 1rem; color: #666;">(4.7/5)</span>
+      </div>
+
+      <!-- Comment Form -->
+      <div class="comment-form">
+        <h3>Add Your Comment</h3>
+        <textarea rows="4" placeholder="Write your comment here..."></textarea>
+        <button type="submit">Submit</button>
+      </div>
+    </div>
+  </section>
+
+  <footer class="footer scroll-reveal">
+    <div class="footer-container">
+        <div class="footer-about">
+            <h3>About Us</h3>
+            <p>We offer quality services and products to make your experience unforgettable. Thank you for choosing
+                us!</p>
+        </div>
+
+        <div class="footer-links">
+            <h3>Quick Links</h3>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#favorites">Favorites</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="footer-contact">
+            <h3>Contact</h3>
+            <p>Phone: +49 171 9481424</p>
+            <p>Email: info@example.com</p>
+            <p>Address: Lug ins Land 28, Hann Münden</p>
+        </div>
+    </div>
+    <div class="footer-social">
+        <h3>Follow Us</h3>
+        <div class="social-icons">
+            <a href="https://facebook.com" target="_blank" aria-label="Facebook"><i
+                    class="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://instagram.com" target="_blank" aria-label="Instagram"><i
+                    class="fab fa-instagram"></i></a>
+            <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn"><i
+                    class="fab fa-linkedin-in"></i></a>
+        </div>
+    </div>
+
+    <div class="footer-bottom">
+        <p>&copy; <span id="year">
+                <script>
+                    document.getElementById("year").textContent = new Date().getFullYear();
+                </script>
+            </span> Your Website Name. All rights reserved.</p>
+    </div>
+</footer>
+
+
+<button id="backToTop" title="Go to top">↑</button>
+  <!-- ملف الجافا سكريبت -->
+  <script src="./assets/assets.js"></script>
+  <script >  const revealElements = document.querySelectorAll('.scroll-reveal');
+
+    const revealOnScroll = () => {
+      const windowHeight = window.innerHeight;
+      revealElements.forEach(el => {
+        const elementTop = el.getBoundingClientRect().top;
+        if (elementTop < windowHeight - 100) {
+          el.classList.add('visible');
+        }
+      });
+    };
+  
+    window.addEventListener('scroll', revealOnScroll);
+    window.addEventListener('load', revealOnScroll); // تشغيل عند تحميل الصفحة
+    
+    // dish-details.js
+function getDishIdFromURL() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get("id");
+}
+function getDishById(id) {
+  return food_list.find(item => item._id === id);
+}
+function renderDishDetails(dish) {
+  const imageContainer = document.querySelector(".dish-image img");
+  const title = document.querySelector(".dish-content h2");
+  const description = document.querySelector(".dish-description");
+const dish_hero = document.querySelector(".dish-hero");
+  if (!dish) {
+    title.textContent = "Dish not found";
+    description.textContent = "The dish you're looking for does not exist.";
+    return;
+  }
+  dish_hero.style.backgroundImage = `url(${dish.image})`;
+  imageContainer.src = dish.image;
+  imageContainer.alt = dish.name;
+  title.textContent = dish.name;
+  description.textContent = dish.description;
+
+  // لو فيه تقييم
+  const ratingElement = document.querySelector(".rating");
+  if (ratingElement && dish.rating) {
+    const fullStars = Math.round(dish.rating);
+    ratingElement.innerHTML = "⭐".repeat(fullStars) +
+      `<span style="font-size: 1rem; color: #666;">(${dish.rating}/5)</span>`;
+  }
+}
+// عند تحميل الصفحة
+window.addEventListener("DOMContentLoaded", () => {
+  const dishId = getDishIdFromURL();
+  const dish = getDishById(dishId);
+  renderDishDetails(dish);
+});
+
+    
+    </script>
+</body>
+</html>

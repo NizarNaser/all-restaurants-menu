@@ -1,0 +1,1057 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>AB waager 1 - Geobrett - Geometrie - Mathe Klasse 3 - Grundschulmaterial.de</title>
+<meta name="description" content="AB waager 1 in der Kategorie 'Geobrett' im Fach Mathe. Weitere Stichwörter: Freiarbeit,Symmetrie,Spiegelung,Spiegelachse,Spiegel,Symmetrieachse,Spiegeln,Geometrie,Geobrett" />
+<meta name="keywords" content="Unterrichtsmaterial,Arbeitsblätter,Klassenstufen 1-4,Deutsch,Mathe,Englisch,HuS,Lehrer,Eltern,Schulen" />
+<meta name="author" content="GSM" />
+<meta name="copyright" content="Copyright (c) 2004 - 2016 GSM" />
+    <link rel="icon" type="image/ico" href="/favicon.ico" />
+    <link href="/css/nanoscroller.css" rel="stylesheet" >
+    <link href="/css/jquery.autocomplete.css" rel="stylesheet" >
+    <link href="/js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet" type="text/css" />
+    <script src="/js/jquery-1.8.0.min.js"></script>
+    <script src="/js/modernizr.js"></script>
+    <script src="/js/overthrow.min.js"></script>
+    <script src="/js/jquery.nanoscroller.js"></script>
+    <script src="/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+    <script src="/js/jquery.cookie.js"></script>
+    <script src="/js/jquery.autocomplete.min.js"></script>
+    <script src="/js/gsm-tracking.js"></script>
+    <link rel="stylesheet" type="text/css" href="/minify/g=css&amp;1695976358" /><script type="text/javascript" src="/minify/g=js&amp;1528983650"></script>    <!--[if lte IE 8]>
+        <link href="/css/IE8.css" rel="stylesheet" type="text/css" />
+        <script src="/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <!--[if lte IE 7]>
+        <link href="/css/IE7.css" rel="stylesheet" type="text/css" />
+        <script src="/js/lte-ie7.js"></script>
+        <script src="/js/IE9.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="/js/ga.js"></script>
+  </head>
+  <body class="detail sidebar">
+    <div id="page">
+      <header id="header" class="clearfix">
+        <nav id="metanav" class="header_row">
+          <div class="inner">
+            <ul class="clearfix">
+              <li><a href="/bestellen">Produkte & Preise</a></li>
+              <li><a href="/hilfe">Hilfe</a></li>
+              <li><a href="/kontakt">Kontakt</a></li>
+              <li><a href="/impressum">Impressum</a></li>
+            </ul>
+          </div>
+        </nav>
+        <div id="header_main" class="header_row gradient dark">
+          <div class="inner clearfix">
+            <h1 id="logo"><a href="/"></a></h1>
+<ul id="login_buttons">
+        <li><a href="javascript:void(0);" id="open_login" class="button bl">Anmelden · Mein Konto</a></li>
+        <!--<li><a href="/bestellen" class="button gn">Zugang bestellen</a></li>-->
+</ul>
+          </div>
+        </div>
+        <div class="stickable">
+          <div id="navbar" class="header_row clearfix  gradient dark"><div class="inner"><nav id="topnav" class="topnav">
+    <ul>
+        <li><a title="Mathe" href="/mathe">Mathe</a></li>
+        <li><a title="Deutsch" href="/deutsch">Deutsch</a></li>
+        <li><a title="HuS" href="/hus">HuS</a></li>
+        <li><a title="Englisch" href="/englisch">Englisch</a></li>
+        <li><a title="Material" href="/material">Material</a></li>
+        <li><a title="Fotos" href="/medien/Fotos/c/2/" onclick="gsmtrack('list','/2/','/Fotos/');">Fotos</a></li>
+        <li id="topnav-cart">
+            <a class="sk icon icon-cart wt" href="/sammelkorb"><span class="label">Sammelkorb </span><span class="cartsize">(leer)</span></a>
+        </li>
+    </ul>
+</nav>
+<div id="topsearch">
+    <div class="inner">
+        <form method="POST" action="/main/search" id="topsearch_form">
+            <div id="searchbox"><div id="filter">
+                    <div style="display:none;" class="usage_filter"><span></span><a id="close-narrow" class="remove icon-erase icon-small " href="javascript:;"></a></div>
+                    <div style="display:none;" class="type_filter"><span></span><a id="close-narrow" class="remove icon-erase icon-small" href="javascript:;"></a></div>
+                </div>
+                <input name="q" type="text" id="qtop" value=""  placeholder="Suchbegriff(e) eingeben" >
+            </div>
+            <input class="button bl small" type="submit" value="">
+            <input class="button bl large" type="submit" value="Finden" onclick="gsmtrack('search','','',$('#qtop').val());">
+            <a id="show-filters" class="icon icon-arrow-down" href="javascript:;"></a>
+
+            <div id="filter-options" class="hasLayout">
+                <ul class="usage_filter clearfix">
+                    <li><strong>Verwendung</strong></li>
+                        <li>
+                                                    <input id="uf_1" type="radio" name="u" value="Bastelvorlage" />
+                            <label class="" for="uf_1">Bastelvorlage</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_2" type="radio" name="u" value="Beamerprojektion" />
+                            <label class="" for="uf_2">Beamerprojektion</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_3" type="radio" name="u" value="Demoversion" />
+                            <label class="" for="uf_3">Demoversion</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_4" type="radio" name="u" value="Einzelarbeit" />
+                            <label class="" for="uf_4">Einzelarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_5" type="radio" name="u" value="Folie" />
+                            <label class="" for="uf_5">Folie</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_6" type="radio" name="u" value="Formblatt" />
+                            <label class="" for="uf_6">Formblatt</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_7" type="radio" name="u" value="Freiarbeit" />
+                            <label class="" for="uf_7">Freiarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_8" type="radio" name="u" value="Frontalunterricht" />
+                            <label class="" for="uf_8">Frontalunterricht</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_9" type="radio" name="u" value="Fördermaterial" />
+                            <label class="" for="uf_9">Fördermaterial</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_10" type="radio" name="u" value="Gestaltungsmaterial" />
+                            <label class="" for="uf_10">Gestaltungsmaterial</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_11" type="radio" name="u" value="Gruppenarbeit" />
+                            <label class="" for="uf_11">Gruppenarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_12" type="radio" name="u" value="Hausaufgaben" />
+                            <label class="" for="uf_12">Hausaufgaben</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_13" type="radio" name="u" value="Interaktive Übung" />
+                            <label class="" for="uf_13">Interaktive Übung</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_14" type="radio" name="u" value="Klassenarbeiten" />
+                            <label class="" for="uf_14">Klassenarbeiten</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_15" type="radio" name="u" value="Klassencomputer" />
+                            <label class="" for="uf_15">Klassencomputer</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_16" type="radio" name="u" value="Klassenraumgestaltung" />
+                            <label class="" for="uf_16">Klassenraumgestaltung</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_17" type="radio" name="u" value="Lapbook" />
+                            <label class="" for="uf_17">Lapbook</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_18" type="radio" name="u" value="Legematerial" />
+                            <label class="" for="uf_18">Legematerial</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_19" type="radio" name="u" value="Lernfotos" />
+                            <label class="" for="uf_19">Lernfotos</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_20" type="radio" name="u" value="Lernwürfel" />
+                            <label class="" for="uf_20">Lernwürfel</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_21" type="radio" name="u" value="Lesefotos" />
+                            <label class="" for="uf_21">Lesefotos</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_22" type="radio" name="u" value="Lesen und Vorlesen" />
+                            <label class="" for="uf_22">Lesen und Vorlesen</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_23" type="radio" name="u" value="Partner-/Gruppenarbeit" />
+                            <label class="" for="uf_23">Partner-/Gruppenarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_24" type="radio" name="u" value="Partnerarbeit" />
+                            <label class="" for="uf_24">Partnerarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_25" type="radio" name="u" value="Projekt" />
+                            <label class="" for="uf_25">Projekt</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_26" type="radio" name="u" value="Projekte" />
+                            <label class="" for="uf_26">Projekte</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_27" type="radio" name="u" value="Raumgestaltung" />
+                            <label class="" for="uf_27">Raumgestaltung</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_28" type="radio" name="u" value="Referate" />
+                            <label class="" for="uf_28">Referate</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_29" type="radio" name="u" value="Rätsel" />
+                            <label class="" for="uf_29">Rätsel</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_30" type="radio" name="u" value="Sonstiges" />
+                            <label class="" for="uf_30">Sonstiges</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_31" type="radio" name="u" value="Stillarbeit" />
+                            <label class="" for="uf_31">Stillarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_32" type="radio" name="u" value="Tests" />
+                            <label class="" for="uf_32">Tests</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_33" type="radio" name="u" value="Vertretungsstunde" />
+                            <label class="" for="uf_33">Vertretungsstunde</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_34" type="radio" name="u" value="Vortrag" />
+                            <label class="" for="uf_34">Vortrag</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_35" type="radio" name="u" value="Werkstattarbeit" />
+                            <label class="" for="uf_35">Werkstattarbeit</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_36" type="radio" name="u" value="Wochenplan" />
+                            <label class="" for="uf_36">Wochenplan</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_37" type="radio" name="u" value="Übungen mit Selbstkontrolle" />
+                            <label class="" for="uf_37">Übungen mit Selbstkontrolle</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_38" type="radio" name="u" value="Übungsdemonstration" />
+                            <label class="" for="uf_38">Übungsdemonstration</label>
+                                                </li>
+                                            <li>
+                                                    <input id="uf_39" type="radio" name="u" value="Übungsmaterial" />
+                            <label class="" for="uf_39">Übungsmaterial</label>
+                                                </li>
+                                    </ul>
+                <ul class="type_filter">
+                    <li><strong>Typ</strong></li>
+                        <li>
+                                                    <input id="tf_1" type="radio" name="t" value="Arbeitsblatt" />
+                            <label for="tf_1">Arbeitsblatt</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_2" type="radio" name="t" value="Audiodatei" />
+                            <label for="tf_2">Audiodatei</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_3" type="radio" name="t" value="Bastelvorlage" />
+                            <label for="tf_3">Bastelvorlage</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_4" type="radio" name="t" value="Computerübung" />
+                            <label for="tf_4">Computerübung</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_5" type="radio" name="t" value="Digitales Lerntraining" />
+                            <label for="tf_5">Digitales Lerntraining</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_6" type="radio" name="t" value="Druckvorlagen" />
+                            <label for="tf_6">Druckvorlagen</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_7" type="radio" name="t" value="Faltbuch" />
+                            <label for="tf_7">Faltbuch</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_8" type="radio" name="t" value="Folie" />
+                            <label for="tf_8">Folie</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_9" type="radio" name="t" value="Foto" />
+                            <label for="tf_9">Foto</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_10" type="radio" name="t" value="GSM-Lesekrokodil" />
+                            <label for="tf_10">GSM-Lesekrokodil</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_11" type="radio" name="t" value="Grafik" />
+                            <label for="tf_11">Grafik</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_12" type="radio" name="t" value="Holzcomputer" />
+                            <label for="tf_12">Holzcomputer</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_13" type="radio" name="t" value="Hörspiel" />
+                            <label for="tf_13">Hörspiel</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_14" type="radio" name="t" value="Interaktive Übung" />
+                            <label for="tf_14">Interaktive Übung</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_15" type="radio" name="t" value="Interative Übung" />
+                            <label for="tf_15">Interative Übung</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_16" type="radio" name="t" value="Klammerkarten" />
+                            <label for="tf_16">Klammerkarten</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_17" type="radio" name="t" value="Legematerial" />
+                            <label for="tf_17">Legematerial</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_18" type="radio" name="t" value="Leporello" />
+                            <label for="tf_18">Leporello</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_19" type="radio" name="t" value="Lernheft" />
+                            <label for="tf_19">Lernheft</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_20" type="radio" name="t" value="Lernkartei" />
+                            <label for="tf_20">Lernkartei</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_21" type="radio" name="t" value="Lernprogramm" />
+                            <label for="tf_21">Lernprogramm</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_22" type="radio" name="t" value="Präsentation" />
+                            <label for="tf_22">Präsentation</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_23" type="radio" name="t" value="Rätsel" />
+                            <label for="tf_23">Rätsel</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_24" type="radio" name="t" value="Setzleiste" />
+                            <label for="tf_24">Setzleiste</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_25" type="radio" name="t" value="Sonstiges" />
+                            <label for="tf_25">Sonstiges</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_26" type="radio" name="t" value="Spiel" />
+                            <label for="tf_26">Spiel</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_27" type="radio" name="t" value="Variokarten" />
+                            <label for="tf_27">Variokarten</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_28" type="radio" name="t" value="Video" />
+                            <label for="tf_28">Video</label>
+                                                </li>
+                        <li>
+                                                    <input id="tf_29" type="radio" name="t" value="Übungen mit Selbstkontrolle" />
+                            <label for="tf_29">Übungen mit Selbstkontrolle</label>
+                                                </li>
+                </ul>
+            </div>
+        </form>
+    </div>
+</div>
+</div></div>
+          <div id="breadcrumbs" class="header_row"><div class="inner"><div class="clearfix">
+    <ul class="breadcrumbs">
+        <li class="bcHome bcFirst">
+                        <a href="/">Startseite</a>
+            </li>
+        <li class="bcPath">
+        <span class="sep icon-arrow-right">&nbsp;</span>                <a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/','');">Mathe</a>
+            </li>
+        <li class="bcPath">
+        <span class="sep icon-arrow-right">&nbsp;</span>                <a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/','');">Klasse 3</a>
+            </li>
+        <li class="bcPath">
+        <span class="sep icon-arrow-right">&nbsp;</span>                <a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/','');">Geometrie</a>
+            </li>
+        <li class="bcPath">
+        <span class="sep icon-arrow-right">&nbsp;</span>                <a href="/medien/Mathe/Klasse 3/Geometrie/Geobrett/c/3/2104/4585/4342/p/1/" onclick="gsmtrack('list','/3/2104/4585/4342/','/Mathe/Klasse 3/Geometrie/Geobrett/','');">Geobrett</a>
+            </li>
+        <li class="bcCurrent">
+        <span class="sep icon-arrow-right">&nbsp;</span>                <strong>AB waager 1.pdf</strong>
+            </li>
+        </ul>
+            </div>
+</div></div>
+        </div>
+      </header>
+      <div id="main" class="clearfix">
+        <div class="content-block" id="top_content"></div>
+        <div id="sidebar">
+          <div class="top"></div>
+          <div id="sidebar_content" class="nano">
+            <div class="overthrow content description"><section id="categories">
+    <ul><li class="folder_open has_children"><a rel="tooltip" href="/mathe" title="Mathe"><span class="icon"></span>Mathe<span class="count">(19472)</span></a><ul><li class="has_children"><a rel="tooltip" href="/mathe/klasse_1" title="Klasse 1"><span class="icon"></span>Klasse 1<span class="count">(6406)</span></a></li><li class="has_children"><a rel="tooltip" href="/mathe/klasse_2" title="Klasse 2"><span class="icon"></span>Klasse 2<span class="count">(7878)</span></a></li><li class="folder_open has_children"><a rel="tooltip" href="/mathe/klasse_3" title="Klasse 3"><span class="icon"></span>Klasse 3<span class="count">(3572)</span></a><ul><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/1x1 Training/c/3/2104/6615/p/1/" title="1x1 Training" onclick="gsmtrack('list','/3/2104/6615/','/Mathe/Klasse 3/1x1 Training/','');"><span class="icon"></span>1x1 Training<span class="count">(340)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Abbildungen für Arbeitsbögen/c/3/2104/5074/p/1/" title="Abbildungen für Arbeitsbögen" onclick="gsmtrack('list','/3/2104/5074/','/Mathe/Klasse 3/Abbildungen für Arbeitsbögen/','');"><span class="icon"></span>Abbildungen für Arbeitsbögen<span class="count">(70)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Aktionskarten/c/3/2104/7888/p/1/" title="Aktionskarten" onclick="gsmtrack('list','/3/2104/7888/','/Mathe/Klasse 3/Aktionskarten/','');"><span class="icon"></span>Aktionskarten<span class="count">(3)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Arbeitsblätter/c/3/2104/1867/p/1/" title="Arbeitsblätter" onclick="gsmtrack('list','/3/2104/1867/','/Mathe/Klasse 3/Arbeitsblätter/','');"><span class="icon"></span>Arbeitsblätter<span class="count">(758)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Computerübungen/c/3/2104/8427/p/1/" title="Computerübungen" onclick="gsmtrack('list','/3/2104/8427/','/Mathe/Klasse 3/Computerübungen/','');"><span class="icon"></span>Computerübungen<span class="count">(54)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Denkaufgaben - Denksport/c/3/2104/6282/p/1/" title="Denkaufgaben - Denksport" onclick="gsmtrack('list','/3/2104/6282/','/Mathe/Klasse 3/Denkaufgaben - Denksport/','');"><span class="icon"></span>Denkaufgaben - Denksport<span class="count">(32)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Ergebnis-Drillinge/c/3/2104/7236/p/1/" title="Ergebnis-Drillinge" onclick="gsmtrack('list','/3/2104/7236/','/Mathe/Klasse 3/Ergebnis-Drillinge/','');"><span class="icon"></span>Ergebnis-Drillinge<span class="count">(6)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Erklärvideos/c/3/2104/10467/p/1/" title="Erklärvideos" onclick="gsmtrack('list','/3/2104/10467/','/Mathe/Klasse 3/Erklärvideos/','');"><span class="icon"></span>Erklärvideos<span class="count">(3)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Erweiterung des Zahlenraums/c/3/2104/2093/p/1/" title="Erweiterung des Zahlenraums" onclick="gsmtrack('list','/3/2104/2093/','/Mathe/Klasse 3/Erweiterung des Zahlenraums/','');"><span class="icon"></span>Erweiterung des Zahlenraums<span class="count">(275)</span></a></li><li class="folder_open has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" title="Geometrie" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/','');"><span class="icon"></span>Geometrie<span class="count">(236)</span></a><ul><li class="no_children top_category"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Figuren vergrößern/c/3/2104/4585/4897/p/1/" title="Figuren vergrößern" onclick="gsmtrack('list','/3/2104/4585/4897/','/Mathe/Klasse 3/Geometrie/Figuren vergrößern/','');"><span class="icon"></span>Figuren vergrößern<span class="count">(4)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Flächen und Netze/c/3/2104/4585/4327/p/1/" title="Flächen und Netze" onclick="gsmtrack('list','/3/2104/4585/4327/','/Mathe/Klasse 3/Geometrie/Flächen und Netze/','');"><span class="icon"></span>Flächen und Netze<span class="count">(10)</span></a></li><li class="folder_open no_children top_category"><strong><span class="icon active"></span>Geobrett</strong><span class="active_peak"></span><span class="count">(25)</span></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Gitterbilder/c/3/2104/4585/6760/p/1/" title="Gitterbilder" onclick="gsmtrack('list','/3/2104/4585/6760/','/Mathe/Klasse 3/Geometrie/Gitterbilder/','');"><span class="icon"></span>Gitterbilder<span class="count">(164)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Körper/c/3/2104/4585/11116/p/1/" title="Körper" onclick="gsmtrack('list','/3/2104/4585/11116/','/Mathe/Klasse 3/Geometrie/Körper/','');"><span class="icon"></span>Körper<span class="count">(1)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Längen messen/c/3/2104/4585/11115/p/1/" title="Längen messen" onclick="gsmtrack('list','/3/2104/4585/11115/','/Mathe/Klasse 3/Geometrie/Längen messen/','');"><span class="icon"></span>Längen messen<span class="count">(1)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Legespiele/c/3/2104/4585/11110/p/1/" title="Legespiele" onclick="gsmtrack('list','/3/2104/4585/11110/','/Mathe/Klasse 3/Geometrie/Legespiele/','');"><span class="icon"></span>Legespiele<span class="count">(1)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Punktebilder nachzeichnen /c/3/2104/4585/6852/p/1/" title="Punktebilder nachzeichnen " onclick="gsmtrack('list','/3/2104/4585/6852/','/Mathe/Klasse 3/Geometrie/Punktebilder nachzeichnen /','');"><span class="icon"></span>Punktebilder nachzeichnen <span class="count">(5)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Rechte Winkel/c/3/2104/4585/11117/p/1/" title="Rechte Winkel" onclick="gsmtrack('list','/3/2104/4585/11117/','/Mathe/Klasse 3/Geometrie/Rechte Winkel/','');"><span class="icon"></span>Rechte Winkel<span class="count">(1)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Spiegelungen/c/3/2104/4585/4586/p/1/" title="Spiegelungen" onclick="gsmtrack('list','/3/2104/4585/4586/','/Mathe/Klasse 3/Geometrie/Spiegelungen/','');"><span class="icon"></span>Spiegelungen<span class="count">(8)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Umfang und Fläche/c/3/2104/4585/11118/p/1/" title="Umfang und Fläche" onclick="gsmtrack('list','/3/2104/4585/11118/','/Mathe/Klasse 3/Geometrie/Umfang und Fläche/','');"><span class="icon"></span>Umfang und Fläche<span class="count">(1)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Visuelle Wahrnehmung/c/3/2104/4585/7483/p/1/" title="Visuelle Wahrnehmung" onclick="gsmtrack('list','/3/2104/4585/7483/','/Mathe/Klasse 3/Geometrie/Visuelle Wahrnehmung/','');"><span class="icon"></span>Visuelle Wahrnehmung<span class="count">(6)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Geometrie/Würfelgeometrie/c/3/2104/4585/10911/p/1/" title="Würfelgeometrie" onclick="gsmtrack('list','/3/2104/4585/10911/','/Mathe/Klasse 3/Geometrie/Würfelgeometrie/','');"><span class="icon"></span>Würfelgeometrie<span class="count">(9)</span></a></li></ul></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Holzcomputer/c/3/2104/8816/p/1/" title="Holzcomputer" onclick="gsmtrack('list','/3/2104/8816/','/Mathe/Klasse 3/Holzcomputer/','');"><span class="icon"></span>Holzcomputer<span class="count">(103)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Klammerkarten/c/3/2104/10350/p/1/" title="Klammerkarten" onclick="gsmtrack('list','/3/2104/10350/','/Mathe/Klasse 3/Klammerkarten/','');"><span class="icon"></span>Klammerkarten<span class="count">(60)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Kopfrechentraining/c/3/2104/8853/p/1/" title="Kopfrechentraining" onclick="gsmtrack('list','/3/2104/8853/','/Mathe/Klasse 3/Kopfrechentraining/','');"><span class="icon"></span>Kopfrechentraining<span class="count">(111)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Rechenkartei/c/3/2104/1885/p/1/" title="Rechenkartei" onclick="gsmtrack('list','/3/2104/1885/','/Mathe/Klasse 3/Rechenkartei/','');"><span class="icon"></span>Rechenkartei<span class="count">(87)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Rechnen mit Größen/c/3/2104/4672/p/1/" title="Rechnen mit Größen" onclick="gsmtrack('list','/3/2104/4672/','/Mathe/Klasse 3/Rechnen mit Größen/','');"><span class="icon"></span>Rechnen mit Größen<span class="count">(49)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Sachaufgaben/c/3/2104/2086/p/1/" title="Sachaufgaben" onclick="gsmtrack('list','/3/2104/2086/','/Mathe/Klasse 3/Sachaufgaben/','');"><span class="icon"></span>Sachaufgaben<span class="count">(19)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Setzleiste/c/3/2104/5845/p/1/" title="Setzleiste" onclick="gsmtrack('list','/3/2104/5845/','/Mathe/Klasse 3/Setzleiste/','');"><span class="icon"></span>Setzleiste<span class="count">(7)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/spielerisch rechnen/c/3/2104/1887/p/1/" title="spielerisch rechnen" onclick="gsmtrack('list','/3/2104/1887/','/Mathe/Klasse 3/spielerisch rechnen/','');"><span class="icon"></span>spielerisch rechnen<span class="count">(660)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Spielerisches Lernen/c/3/2104/8348/p/1/" title="Spielerisches Lernen" onclick="gsmtrack('list','/3/2104/8348/','/Mathe/Klasse 3/Spielerisches Lernen/','');"><span class="icon"></span>Spielerisches Lernen<span class="count">(2)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Uhrzeiten/c/3/2104/1914/p/1/" title="Uhrzeiten" onclick="gsmtrack('list','/3/2104/1914/','/Mathe/Klasse 3/Uhrzeiten/','');"><span class="icon"></span>Uhrzeiten<span class="count">(498)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/VARIO-karten/c/3/2104/1888/p/1/" title="VARIO-karten" onclick="gsmtrack('list','/3/2104/1888/','/Mathe/Klasse 3/VARIO-karten/','');"><span class="icon"></span>VARIO-karten<span class="count">(192)</span></a></li><li class="no_children"><a rel="tooltip" href="/medien/Mathe/Klasse 3/Interaktive Tafelbilder/c/3/2104/8807/p/1/" title="Interaktive Tafelbilder" onclick="gsmtrack('list','/3/2104/8807/','/Mathe/Klasse 3/Interaktive Tafelbilder/','');"><span class="icon"></span>Interaktive Tafelbilder<span class="count">(7)</span></a></li></ul></li><li class="has_children"><a rel="tooltip" href="/mathe/klasse_4" title="Klasse 4"><span class="icon"></span>Klasse 4<span class="count">(1645)</span></a></li></ul></li><li class="has_children"><a rel="tooltip" href="/deutsch" title="Deutsch"><span class="icon"></span>Deutsch<span class="count">(32368)</span></a></li><li class="has_children"><a rel="tooltip" href="/hus" title="HuS"><span class="icon"></span>HuS<span class="count">(27851)</span></a></li><li class="has_children"><a rel="tooltip" href="/englisch" title="Englisch"><span class="icon"></span>Englisch<span class="count">(3988)</span></a></li><li class="has_children"><a rel="tooltip" href="/material" title="Material"><span class="icon"></span>Material<span class="count">(14328)</span></a></li><li class="has_children"><a rel="tooltip" href="/medien/Fotos/c/2/p/1/" title="Fotos" onclick="gsmtrack('list','/2/','/Fotos/','');"><span class="icon"></span>Fotos<span class="count">(28980)</span></a></li></ul></section>
+</div>
+          </div>
+        </div>
+        <aside id="right" class="col gsm-col-3"><div class="inner"></div></aside>
+        <div id="content" class="col gsm-col-2">
+          <div class="inner clearfix"><div class="document-detail full">
+    <div id="ad-gsm" class="ad ad-listing">
+    <div class="inner">
+        <div class="text">
+            <h1>Über 100.000 Unterrichtsmedien für die Grundschule</h1>
+            <ul class="sub benefits">
+                    <li class="icon-checkmark">Für Lehrer und Eltern</li>
+                    <li class="icon-checkmark">Einfach zu finden & sofort verfügbar</li>
+                    <li class="icon-checkmark">Lehrplangerecht und klassenbezogen</li>
+                    <li class="icon-checkmark">Auch für das außerschulische Lernen und Üben</li>
+             </ul>
+            <ul class="buttons clearfix">
+                <li><a class="button or icon-user" href="/bestellen">Zugang bestellen
+                        <span class="badge badge-orange">
+                            <span class="inner">
+                                <small>ab</small><br>
+                                5 Cent
+                                <small>
+                                    <br>pro<br>
+                                    Download
+                                </small>
+                            </span>
+                        </span>
+                    </a>
+                </li>
+                <li class="oder">oder</li>
+                <!--<li>
+                    <a class="button gn icon-pencil small two-lines" href="/kundenkonto/registrieren">Jetzt kostenlos testen<br>
+                    <small>5 Gratis-Downloads sichern</small></a>
+                </li>-->
+
+                <li class="payment"><h3 class="sub-heading">Einfach online bezahlen:</h3>
+                    <ul class="horizontal payment-options">
+
+                        <li class="clear"><img class="pay-icon" src="/img/shop/paymentIcon_paypal.png"></li>
+                        <li><img class="pay-icon" src="/img/shop/paymentIcon_master.png" ></li>
+                        <li><img class="pay-icon" src="/img/shop/paymentIcon_visa.png" ></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+    <div class="inner clearfix">
+        <h1><a href="/medien/Mathe/Klasse 3/Geometrie/Geobrett/id/63437/">AB waager 1.pdf</a></h1>
+                <div class="content">
+            <div class="inner rounded">
+                <div class="img-container">
+                    <img src="/preview/Mathe/Klasse 3/Geometrie/Geobrett/AB waager 1-000063437-1.jpg" alt="AB waager 1.pdf" />
+                </div>
+            </div>
+        </div>
+        <aside class="media-info">
+            <div class="inner">
+                <div class="top">
+                    <dl class="clearfix">
+                        <dt>Fach:</dt><dd>3. Klasse Mathe</dd>
+                        <dt>Typ:</dt><dd>Arbeitsblatt</dd>
+                        <dt>Verwendung:</dt><dd>Einzelarbeit</dd>
+                        <dt>Dateityp:</dt><dd><div class="ftype_pdf"><span class="file_type_group">Dokument</span> (<span class="file_type_ext">pdf</span>)</div></dd>
+                        <dt>Größe:</dt><dd>1 Seite (22.6 Kb)</dd>
+                    </dl>
+                    <section class="categories">
+                        <h1>Kategorien</h1>
+                        <ul>
+                                                            <li><a href="/medien/Mathe/Klasse 3/Geometrie/Geobrett/c/3/2104/4585/4342/p/1/" onclick="gsmtrack('list','/3/2104/4585/4342/','/3/2104/4585/4342/');">
+    Geobrett</a>
+                                </li>
+                                                </ul>
+                    </section>
+                    <section class="keywords">
+                        <h1>Keywords</h1>
+                                                        <ul>
+                                                                    <li><a href="/medien/k/Freiarbeit/p/1/">Freiarbeit</a></li>
+                                                        <li><a href="/medien/k/Symmetrie/p/1/">Symmetrie</a></li>
+                                                        <li><a href="/medien/k/Spiegelung/p/1/">Spiegelung</a></li>
+                                                        <li><a href="/medien/k/Spiegelachse/p/1/">Spiegelachse</a></li>
+                                                        <li><a href="/medien/k/Spiegel/p/1/">Spiegel</a></li>
+                                                        <li><a href="/medien/k/Symmetrieachse/p/1/">Symmetrieachse</a></li>
+                                                        <li><a href="/medien/k/Spiegeln/p/1/">Spiegeln</a></li>
+                                                        <li><a href="/medien/k/Geometrie/p/1/">Geometrie</a></li>
+                                                        <li><a href="/medien/k/Geobrett/p/1/">Geobrett</a></li>
+                                                </ul>
+                    </section>
+                </div>
+                                            <section class="description">
+                        <h1>Beschreibung</h1>
+                        <p>
+    Die Schüler spannen zunächst die vorgegeben Figur auf ihrem Geobrett und markieren anschließend mit einem anders farbigen Gummiband die Spiegelachse an der vorgegebenen Stelle.
+Anschließend spannen sie die gespiegelte Figur (evtl. mit Hilfe eines Spiegels) auf ihrem Geobrett und übertragen die Figur auf ihr Arbeitsblatt.                        </p>
+                    </section>
+                <ul class="actions clearfix" id="d_actions_63437">
+                    <li class="first-child">
+                        <a class="l_download downloads button bl icon-download" href="#download" title="Download">
+<!--                            <span class="entypo-ic">&#x46;</span>-->
+                            <span class="label">Download</span>
+                            <span class="d_points button">
+                                <span class="value">1</span>
+                                <!--<span class="dl">Download</span>-->
+                                <span class="pt">
+Punkt                                </span>
+                            </span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="l_cart button or icon-cart" href="#cart" title="In den Sammelkorb" onclick="gsmtrack('basket','63437','AB waager 1.pdf');"><span class="label">In den Sammelkorb</span></a>
+                    </li>
+                </ul>
+            </div>
+        </aside>
+        <aside class="related-media clearfix">
+<div class="top clearfix">
+    <h2>Ähnliche Medien</h2>
+    <div class="counter">
+        <span class="from">1</span> - <span class="to">6</span> von 12    </div>
+</div>
+<div class="featured-listing clearfix" data-item-num="12" data-items-to-show="6" data-curr-item="1" >
+        <article class="listing_item  portrait" id="listing_item_64320" >
+        <div class="inner" title="/Mathe/Klasse 3/Geometrie/Spiegelungen/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','64320','Spiegelschrift.pdf');"
+                        href="/medien/Mathe/Klasse 3/Geometrie/Spiegelungen/id/64320/"
+                        rel="pgroup"
+                        title="Spiegelschrift.pdf"
+                        class="l_detail">
+                        <img alt="Spiegelschrift.pdf" src="/thumbs/Mathe/Klasse 3/Geometrie/Spiegelungen/Spiegelschrift-000064320.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Spiegelschrift.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Spiegelungen/id/64320/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Spiegelschrift.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/');">Geometrie</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Geometrie/Spiegelungen/c/3/2104/4585/4586/p/1/" onclick="gsmtrack('list','/3/2104/4585/4586/','/Mathe/Klasse 3/Geometrie/Spiegelungen/');">Spiegelungen</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Spiegelschrift.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Spiegelungen/id/64320/">
+                <span class="icon icon-newspaper"></span>Spiegelschrift.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  landscape" id="listing_item_64319" >
+        <div class="inner" title="/Mathe/Klasse 2/Geometrie/Spiegelung/">
+            <div class="content">
+                <div class="img_container landscape">
+                    <a
+                        onclick="gsmtrack('detail','64319','Symmetrie Freiarbeitskartei.pdf');"
+                        href="/medien/Mathe/Klasse 2/Geometrie/Spiegelung/id/64319/"
+                        rel="pgroup"
+                        title="Symmetrie Freiarbeitskartei.pdf"
+                        class="l_detail">
+                        <img alt="Symmetrie Freiarbeitskartei.pdf" src="/thumbs/Mathe/Klasse 2/Geometrie/Spiegelung/Symmetrie Freiarbeitskartei-000064319.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Symmetrie Freiarbeitskartei.pdf" href="/medien/Mathe/Klasse 2/Geometrie/Spiegelung/id/64319/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Symmetrie Freiarbeitskartei.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/c/3/1858/p/1/" onclick="gsmtrack('list','/3/1858/','/Mathe/Klasse 2/');">Klasse 2</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/Geometrie/c/3/1858/762/p/1/" onclick="gsmtrack('list','/3/1858/762/','/Mathe/Klasse 2/Geometrie/');">Geometrie</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 2/Geometrie/Spiegelung/c/3/1858/762/4584/p/1/" onclick="gsmtrack('list','/3/1858/762/4584/','/Mathe/Klasse 2/Geometrie/Spiegelung/');">Spiegelung</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Symmetrie Freiarbeitskartei.pdf" href="/medien/Mathe/Klasse 2/Geometrie/Spiegelung/id/64319/">
+                <span class="icon icon-newspaper"></span>Symmetrie Freiarbeitskartei.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  portrait" id="listing_item_64887" >
+        <div class="inner" title="/Mathe/Klasse 3/Geometrie/Figuren vergrößern/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','64887','Test mit Lösung.pdf');"
+                        href="/medien/Mathe/Klasse 3/Geometrie/Figuren vergrößern/id/64887/"
+                        rel="pgroup"
+                        title="Test mit Lösung.pdf"
+                        class="l_detail">
+                        <img alt="Test mit Lösung.pdf" src="/thumbs/Mathe/Klasse 3/Geometrie/Figuren vergrößern/Test mit Lösung-000064887.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Test mit Lösung.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Figuren vergrößern/id/64887/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Test mit Lösung.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/');">Geometrie</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Geometrie/Figuren vergrößern/c/3/2104/4585/4897/p/1/" onclick="gsmtrack('list','/3/2104/4585/4897/','/Mathe/Klasse 3/Geometrie/Figuren vergrößern/');">Figuren vergrößern</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Test mit Lösung.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Figuren vergrößern/id/64887/">
+                <span class="icon icon-newspaper"></span>Test mit Lösung.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  landscape" id="listing_item_110043" >
+        <div class="inner" title="/Mathe/Klasse 2/Computerübungen/Geometrie/">
+            <div class="content">
+                <div class="img_container landscape">
+                    <a
+                        onclick="gsmtrack('detail','110043','Spiegeln-1.pdf');"
+                        href="/medien/Mathe/Klasse 2/Computerübungen/Geometrie/id/110043/"
+                        rel="pgroup"
+                        title="Spiegeln-1.pdf"
+                        class="l_detail">
+                        <img alt="Spiegeln-1.pdf" src="/thumbs/Mathe/Klasse 2/Computerübungen/Geometrie/Spiegeln-1-000110043.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Spiegeln-1.pdf" href="/medien/Mathe/Klasse 2/Computerübungen/Geometrie/id/110043/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Spiegeln-1.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/c/3/1858/p/1/" onclick="gsmtrack('list','/3/1858/','/Mathe/Klasse 2/');">Klasse 2</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/Computerübungen/c/3/1858/8364/p/1/" onclick="gsmtrack('list','/3/1858/8364/','/Mathe/Klasse 2/Computerübungen/');">Computerübungen</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 2/Computerübungen/Geometrie/c/3/1858/8364/8366/p/1/" onclick="gsmtrack('list','/3/1858/8364/8366/','/Mathe/Klasse 2/Computerübungen/Geometrie/');">Geometrie</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Spiegeln-1.pdf" href="/medien/Mathe/Klasse 2/Computerübungen/Geometrie/id/110043/">
+                <span class="icon icon-newspaper"></span>Spiegeln-1.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  portrait" id="listing_item_87462" >
+        <div class="inner" title="/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','87462','Gespiegelte Gitterbilder 01.pdf');"
+                        href="/medien/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/id/87462/"
+                        rel="pgroup"
+                        title="Gespiegelte Gitterbilder 01.pdf"
+                        class="l_detail">
+                        <img alt="Gespiegelte Gitterbilder 01.pdf" src="/thumbs/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/Gespiegelte Gitterbilder 01-000087462.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Gespiegelte Gitterbilder 01.pdf" href="/medien/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/id/87462/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Gespiegelte Gitterbilder 01.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/c/3/1858/p/1/" onclick="gsmtrack('list','/3/1858/','/Mathe/Klasse 2/');">Klasse 2</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/Geometrie/c/3/1858/762/p/1/" onclick="gsmtrack('list','/3/1858/762/','/Mathe/Klasse 2/Geometrie/');">Geometrie</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/Geometrie/Gitterbilder/c/3/1858/762/6756/p/1/" onclick="gsmtrack('list','/3/1858/762/6756/','/Mathe/Klasse 2/Geometrie/Gitterbilder/');">Gitterbilder</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/c/3/1858/762/6756/6754/p/1/" onclick="gsmtrack('list','/3/1858/762/6756/6754/','/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/');">gespiegelte Gitterbilder</a></strong></li></ul></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Gespiegelte Gitterbilder 01.pdf" href="/medien/Mathe/Klasse 2/Geometrie/Gitterbilder/gespiegelte Gitterbilder/id/87462/">
+                <span class="icon icon-newspaper"></span>Gespiegelte Gitterbilder 01.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  landscape" id="listing_item_29144" >
+        <div class="inner" title="/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/">
+            <div class="content">
+                <div class="img_container landscape">
+                    <a
+                        onclick="gsmtrack('detail','29144','Spiegeln-1.pdf');"
+                        href="/medien/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/id/29144/"
+                        rel="pgroup"
+                        title="Spiegeln-1.pdf"
+                        class="l_detail">
+                        <img alt="Spiegeln-1.pdf" src="/thumbs/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/Spiegeln-1-000029144.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Spiegeln-1.pdf" href="/medien/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/id/29144/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Spiegeln-1.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/c/3/1858/p/1/" onclick="gsmtrack('list','/3/1858/','/Mathe/Klasse 2/');">Klasse 2</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/Geometrie/c/3/1858/762/p/1/" onclick="gsmtrack('list','/3/1858/762/','/Mathe/Klasse 2/Geometrie/');">Geometrie</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 2/Geometrie/interaktive Übungen/c/3/1858/762/982/p/1/" onclick="gsmtrack('list','/3/1858/762/982/','/Mathe/Klasse 2/Geometrie/interaktive Übungen/');">interaktive Übungen</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/c/3/1858/762/982/983/p/1/" onclick="gsmtrack('list','/3/1858/762/982/983/','/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/');">Spiegelungen</a></strong></li></ul></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Spiegeln-1.pdf" href="/medien/Mathe/Klasse 2/Geometrie/interaktive Übungen/Spiegelungen/id/29144/">
+                <span class="icon icon-newspaper"></span>Spiegeln-1.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  landscape" id="listing_item_110728" >
+        <div class="inner" title="/Mathe/Klasse 3/Computerübungen/Spiegelungen/">
+            <div class="content">
+                <div class="img_container landscape">
+                    <a
+                        onclick="gsmtrack('detail','110728','Spiegelungen-Herbstmotive.pdf');"
+                        href="/medien/Mathe/Klasse 3/Computerübungen/Spiegelungen/id/110728/"
+                        rel="pgroup"
+                        title="Spiegelungen-Herbstmotive.pdf"
+                        class="l_detail">
+                        <img alt="Spiegelungen-Herbstmotive.pdf" src="/thumbs/Mathe/Klasse 3/Computerübungen/Spiegelungen/Spiegelungen-Herbstmotive-000110728.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Spiegelungen-Herbstmotive.pdf" href="/medien/Mathe/Klasse 3/Computerübungen/Spiegelungen/id/110728/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Spiegelungen-Herbstmotive.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Computerübungen/c/3/2104/8427/p/1/" onclick="gsmtrack('list','/3/2104/8427/','/Mathe/Klasse 3/Computerübungen/');">Computerübungen</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Computerübungen/Spiegelungen/c/3/2104/8427/8431/p/1/" onclick="gsmtrack('list','/3/2104/8427/8431/','/Mathe/Klasse 3/Computerübungen/Spiegelungen/');">Spiegelungen</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Spiegelungen-Herbstmotive.pdf" href="/medien/Mathe/Klasse 3/Computerübungen/Spiegelungen/id/110728/">
+                <span class="icon icon-newspaper"></span>Spiegelungen-Herbstmotive.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  landscape" id="listing_item_40309" >
+        <div class="inner" title="/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/">
+            <div class="content">
+                <div class="img_container landscape">
+                    <a
+                        onclick="gsmtrack('detail','40309','Spiegelungen-Nussknacker-Übung.pdf');"
+                        href="/medien/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/id/40309/"
+                        rel="pgroup"
+                        title="Spiegelungen-Nussknacker-Übung.pdf"
+                        class="l_detail">
+                        <img alt="Spiegelungen-Nussknacker-Übung.pdf" src="/thumbs/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/Spiegelungen-Nussknacker-Übung-000040309.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Spiegelungen-Nussknacker-Übung.pdf" href="/medien/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/id/40309/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Spiegelungen-Nussknacker-Übung.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/HuS/c/7/p/1/" onclick="gsmtrack('list','/7/','/HuS/');">HuS</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/HuS/Klasse 1/c/7/2923/p/1/" onclick="gsmtrack('list','/7/2923/','/HuS/Klasse 1/');">Klasse 1</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/HuS/Klasse 1/Feste und Feiertage/c/7/2923/570/p/1/" onclick="gsmtrack('list','/7/2923/570/','/HuS/Klasse 1/Feste und Feiertage/');">Feste und Feiertage</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/HuS/Klasse 1/Feste und Feiertage/Weihnachten/c/7/2923/570/571/p/1/" onclick="gsmtrack('list','/7/2923/570/571/','/HuS/Klasse 1/Feste und Feiertage/Weihnachten/');">Weihnachten</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/c/7/2923/570/571/1587/p/1/" onclick="gsmtrack('list','/7/2923/570/571/1587/','/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/');">Präsentation</a></strong></li></ul></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Spiegelungen-Nussknacker-Übung.pdf" href="/medien/HuS/Klasse 1/Feste und Feiertage/Weihnachten/Präsentation/id/40309/">
+                <span class="icon icon-newspaper"></span>Spiegelungen-Nussknacker-Übung.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  portrait" id="listing_item_144982" >
+        <div class="inner" title="/Mathe/Klasse 3/Geometrie/Würfelgeometrie/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','144982','Finde den gespiegelten Wuerfelturm 1 d.pdf');"
+                        href="/medien/Mathe/Klasse 3/Geometrie/Würfelgeometrie/id/144982/"
+                        rel="pgroup"
+                        title="Finde den gespiegelten Wuerfelturm 1 d.pdf"
+                        class="l_detail">
+                        <img alt="Finde den gespiegelten Wuerfelturm 1 d.pdf" src="/thumbs/Mathe/Klasse 3/Geometrie/Würfelgeometrie/Finde den gespiegelten Wuerfelturm 1 d-000144982.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Finde den gespiegelten Wuerfelturm 1 d.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Würfelgeometrie/id/144982/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Finde den gespiegelten Wuerfelturm 1 d.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/');">Geometrie</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Geometrie/Würfelgeometrie/c/3/2104/4585/10911/p/1/" onclick="gsmtrack('list','/3/2104/4585/10911/','/Mathe/Klasse 3/Geometrie/Würfelgeometrie/');">Würfelgeometrie</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Finde den gespiegelten Wuerfelturm 1 d.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Würfelgeometrie/id/144982/">
+                <span class="icon icon-newspaper"></span>Finde den gespiegelten Wuerfelturm 1 d.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  portrait" id="listing_item_150041" >
+        <div class="inner" title="/Mathe/Klasse 3/Geometrie/Rechte Winkel/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','150041','Rechte Winkel.PDF');"
+                        href="/medien/Mathe/Klasse 3/Geometrie/Rechte Winkel/id/150041/"
+                        rel="pgroup"
+                        title="Rechte Winkel.PDF"
+                        class="l_detail">
+                        <img alt="Rechte Winkel.PDF" src="/thumbs/Mathe/Klasse 3/Geometrie/Rechte Winkel/Rechte Winkel-000150041.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Rechte Winkel.PDF" href="/medien/Mathe/Klasse 3/Geometrie/Rechte Winkel/id/150041/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Rechte Winkel.PDF                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/');">Geometrie</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Geometrie/Rechte Winkel/c/3/2104/4585/11117/p/1/" onclick="gsmtrack('list','/3/2104/4585/11117/','/Mathe/Klasse 3/Geometrie/Rechte Winkel/');">Rechte Winkel</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Rechte Winkel.PDF" href="/medien/Mathe/Klasse 3/Geometrie/Rechte Winkel/id/150041/">
+                <span class="icon icon-newspaper"></span>Rechte Winkel.PDF            </a>
+        </div>
+    </article>
+        <article class="listing_item  portrait" id="listing_item_63278" >
+        <div class="inner" title="/Mathe/Klasse 3/Geometrie/Flächen und Netze/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','63278','Flächen übertragen 1.pdf');"
+                        href="/medien/Mathe/Klasse 3/Geometrie/Flächen und Netze/id/63278/"
+                        rel="pgroup"
+                        title="Flächen übertragen 1.pdf"
+                        class="l_detail">
+                        <img alt="Flächen übertragen 1.pdf" src="/thumbs/Mathe/Klasse 3/Geometrie/Flächen und Netze/Flächen übertragen 1-000063278.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Flächen übertragen 1.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Flächen und Netze/id/63278/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Flächen übertragen 1.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/');">Geometrie</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Geometrie/Flächen und Netze/c/3/2104/4585/4327/p/1/" onclick="gsmtrack('list','/3/2104/4585/4327/','/Mathe/Klasse 3/Geometrie/Flächen und Netze/');">Flächen und Netze</a></strong></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Flächen übertragen 1.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Flächen und Netze/id/63278/">
+                <span class="icon icon-newspaper"></span>Flächen übertragen 1.pdf            </a>
+        </div>
+    </article>
+        <article class="listing_item  portrait" id="listing_item_89805" >
+        <div class="inner" title="/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/">
+            <div class="content">
+                <div class="img_container portrait">
+                    <a
+                        onclick="gsmtrack('detail','89805','Drehsymmetrsiche Objekte 1.pdf');"
+                        href="/medien/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/id/89805/"
+                        rel="pgroup"
+                        title="Drehsymmetrsiche Objekte 1.pdf"
+                        class="l_detail">
+                        <img alt="Drehsymmetrsiche Objekte 1.pdf" src="/thumbs/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/Drehsymmetrsiche Objekte 1-000089805.jpg" class="frame" />
+                    </a>
+                </div>
+                <div class="label">
+                    <a class="filename" title="Drehsymmetrsiche Objekte 1.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/id/89805/">
+                        <span class="text">
+                            <span class="icon icon-newspaper"></span>Drehsymmetrsiche Objekte 1.pdf                        </span>
+                    </a>
+                    <ul class="hasLayout">
+                        <li class="item-categories vertical hasLayout">
+                            <ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/c/3/p/1/" onclick="gsmtrack('list','/3/','/Mathe/');">Mathe</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/c/3/2104/p/1/" onclick="gsmtrack('list','/3/2104/','/Mathe/Klasse 3/');">Klasse 3</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/c/3/2104/4585/p/1/" onclick="gsmtrack('list','/3/2104/4585/','/Mathe/Klasse 3/Geometrie/');">Geometrie</a><ul class="hasLayout"><li class="hasLayout"><a href="/medien/Mathe/Klasse 3/Geometrie/Gitterbilder/c/3/2104/4585/6760/p/1/" onclick="gsmtrack('list','/3/2104/4585/6760/','/Mathe/Klasse 3/Geometrie/Gitterbilder/');">Gitterbilder</a><ul class="hasLayout last"><li class="hasLayout"><strong><a href="/medien/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/c/3/2104/4585/6760/6942/p/1/" onclick="gsmtrack('list','/3/2104/4585/6760/6942/','/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/');">Drehsymmetrie</a></strong></li></ul></li></ul></li></ul></li></ul></li></ul>                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="title">
+            <a title="Drehsymmetrsiche Objekte 1.pdf" href="/medien/Mathe/Klasse 3/Geometrie/Gitterbilder/Drehsymmetrie/id/89805/">
+                <span class="icon icon-newspaper"></span>Drehsymmetrsiche Objekte 1.pdf            </a>
+        </div>
+    </article>
+    <div class="pagination">
+        <ul>
+            <li><a class="prev-item disabled" href="javascript:void(0)"> </a></li>
+            <li><a class="next-item" href="javascript:void(0)"> </a></li>
+        </ul>
+    </div>
+</div>
+        </aside>
+
+    </div>
+</div>
+</div>
+        </div>
+      </div>
+    </div>
+    <footer id="footer"><div class="inner"><div class="content clearfix">
+  <div class="inner">
+    <ul id="footer-nav" class="horizontal left static">
+      <li>
+        <ul class="block">
+          <li><h1>Medienarchiv</h1></li>
+          <li><a href="/mathe">Mathe</a></li>
+          <li><a href="/deutsch">Deutsch</a></li>
+          <li><a href="/hus">HuS</a></li>
+          <li><a href="/englisch">Englisch</a></li>
+          <li><a href="/material">Material</a></li>
+          <li><a href="/medien/Fotos/c/2/">Fotos</a></li>
+        </ul>
+      </li>
+      <li>
+        <ul class="block">
+          <ul class="block">
+            <li><h1>Lern- &amp; Schulsoftware</h1></li>
+            <li><a href="/bestellen">Preise &amp; Bestellen</a></li>
+            <li><a target="_blank" href="http://medienwerkstatt-online.de/p/krumpfs/">Die Krumpfs auf Lernreise</a></li>
+            <li><a target="_blank" href="http://medienwerkstatt-online.de/p/schreiblabor/">Schreiblabor</a></li>
+            <li><a target="_blank" href="http://medienwerkstatt-online.de/p/overview_schulbericht.php">Schulberichtsmanager</a></li>
+            <li><a target="_blank" href="http://medienwerkstatt-online.de/p/lernwerkstatt_gs/">Lernwerkstatt</a></li>
+          </ul>
+        </ul>
+      </li>
+      <li>
+        <ul class="block">
+          <li><h1>Kundenbereich</h1></li>
+          <li><a href="/hilfe">Hilfe</a></li>
+          <li><a href="/kontakt">Kontakt</a></li>
+          <li><a href="/kundenkonto/anmelden">Registrieren</a></li>
+          <li><a href="/kundenkonto/anmelden">Anmelden · Mein Konto</a></li>
+          <li><a href="/kundenkonto/passwort">Passwort vergessen</a></li>
+        </ul>
+      </li>
+      <li>
+        <ul class="block">
+          <li><h1>Rechtliche Infos</h1></li>
+          <li><a href="/agb">AGB</a></li>
+          <li><a href="/datenschutz">Datenschutz</a></li>
+          <li><a href="/nutzungsbedingungen">Nutzungsbedingungen</a></li>
+          <li><a href="/impressum">Impressum</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div class="right static register">
+      <ul class="clearfix">
+        <li class="buy">
+          <a id="create-account" class="button or icon-user" href="/bestellen">Zugang wählen und Konto eröffnen<br></a>
+        </li>
+        <!--<li>
+          <a class="button gn icon-pencil small two-lines" href="/kundenkonto/registrieren">Jetzt kostenlos testen<br>
+            <small>5 Gratis-Downloads sichern</small>
+          </a>
+        </li>-->
+      </ul>
+      <ul class="payment-options-group horizontal">
+        <li>
+          <h3 class="sub-heading">Einfach online bezahlen:</h3>
+          <ul class="horizontal payment-options">
+            <li><img class="pay-icon" src="/img/shop/paymentIcon_paypal.png"></li>
+            <li><img class="pay-icon" src="/img/shop/paymentIcon_master.png" ></li>
+            <li><img class="pay-icon" src="/img/shop/paymentIcon_visa.png" ></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<footer>
+  <div class="left">
+    © 2004-2024
+    <a href="/">GSM Grundschulmaterial.de Verlagsges. mbH</a> · <a href="https://www.seyvillas.com" target="_blank">Seychellen Urlaub</a> ·  <a href="https://www.ralfsfincas.de" target="_blank">ralfsfincas.de</a>
+  </div>
+  <div class="right not-static">
+    <a href="/hilfe">Hilfe</a> ·
+    <a href="/datenschutz">Datenschutz</a>
+    <a href="/nutzungsbedingungen">Nutzungsbedingungen</a> ·
+    <a href="/agb">AGB</a>
+  </div>
+</footer>
+</div></footer>
+    <div id="scroll_to_top_wrap"><a href="#top" id="scroll_to_top"  class="gradient dark" style=""><span class="icon icon_arrow_top wt"></span><span class="text">hoch</span></a></div>
+    <div id="hidden_content"><div id="login"><div id="login_form_container" class="form_container">
+    <section class="login gradient dark"><div class="inner clearfix">
+            <h2 class="h1">Sie sind bereits Kunde?</h2>
+            <div class="floatgroup clearfix">
+                <form action="/auth/check" method="post" id="login_form_full" class="left">
+                    <input type="hidden" name="referer" value="/medien/Mathe/Klasse%203/Geometrie/Geobrett/id/63437/" />
+                    <input type="hidden" name="task" value="login" />
+                    <input type="hidden" name="iframe" value="0" />
+                    <ul>
+                        <li>
+                            <label>Benutzername:</label>
+                            <input class="textfield" name="username" type="text">
+                        </li>
+                        <li>
+                            <label>Passwort:</label>
+                            <input class="textfield" name="password" type="password" />
+                        </li>
+                        <li>
+                            <input class="button bl" type="submit" value="Anmelden"/>
+                            <a id="forgot_pwd" href="/kundenkonto/passwort" style="color:#fff">Passwort vergessen ?</a>
+                        </li>
+                    </ul>
+                </form>
+                <div class="text right">
+                    <p>
+                        Bitte melden Sie sich hier mit Ihren Zugangsdaten an.
+                    </p>
+                    <p>
+                        Falls Sie noch keine Zugangsdaten besitzen, können Sie eines unserer Downloadpakete auswählen und bestellen.
+                    </p>
+                </div>
+            </div>
+            
+        </div>
+
+    </section>
+    <section class="buy gradient dark"><div class="inner clearfix">
+             <h2 class="h1">Nein, ich bin ein neuer Kunde</h2>
+            <div class="floatgroup clearfix">
+                <div class="left">
+                    <p>Ein Download-Guthaben ermöglicht den freien Zugriff auf <a href="/medien/" style="color:#fff">alle Inhalte unseres Medienangebotes</a>.</p>
+
+                    <a id="create-account" class="button or icon-user-add btn-2-rows" href="/bestellen">Zugang wählen und Konto eröffnen<br>
+                            <small>Bei Online-Zahlung erhalten Sie sofort Ihre Zugangsdaten</small></a>
+
+
+                    <ul class="horizontal payment-options-group">
+                        <li>
+                            <h3 class="sub-heading">Einfach online bezahlen:</h3>
+                            <ul class="horizontal payment-options">
+                                <li><img class="pay-icon" src="/img/shop/paymentIcon_paypal.png"></li>
+                                <li><img class="pay-icon" src="/img/shop/paymentIcon_master.png" ></li>
+                                <li><img class="pay-icon" src="/img/shop/paymentIcon_visa.png" ></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3 class="sub-heading">Oder per:</h3>
+                            <ul class="horizontal payment-options">
+                                <li>Vorkasse / Überweisung</li>
+                            </ul>
+                        </li>
+                    </ul>
+
+
+                </div>
+                <div class="registration right">
+                    <p>Jetzt kostenlos registrieren und<br><strong>5 Downloadpunkte</strong> sichern.</p>
+
+                    <a class="button gn icon-pencil btn-2-rows" href="/kundenkonto/registrieren">Jetzt registrieren<br>
+                        <small>Der Zugang ist 30 Tage gültig</small></a>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+<!--<a class="site_link" href="/">www.grundschulmaterial.de</a>-->
+</div></div>
+  </body>
+</html>

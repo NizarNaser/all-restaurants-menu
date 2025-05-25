@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="description"
+    content="Discover our delicious restaurant menu: bar, kitchen, wines, and cocktails. Enjoy a modern and responsive design.">
+  <meta name="keywords" content="Restaurant, Menu, Bar, Kitchen, Cocktails, Food, Responsive">
+  <meta name="author" content="Your Restaurant Name">
+  <title>Our Restaurant Menu</title>
+
+  <!-- رابط ملف التنسيق -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- أيقونة الموقع (favicon) -->
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+  <link rel="manifest" href="images/site.webmanifest">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+</head>
+
+<body>
+
+  <!-- سيتم إضافة محتوى الصفحة هنا خطوة بخطوة -->
+  <!-- Navbar -->
+  <nav class="navbar" >
+    <div class="nav-container">
+      <a href="all-restaurants-menu/index.html" class="logo">
+        <img src="all-restaurants-menu/images/logo.png" alt="Restaurant Logo">
+
+      </a>
+
+      <ul class="nav-links">
+        <li><a href="/index.html">Home</a></li>
+
+        <li class="dropdown">
+          <a id="menu" href="#menu">Menu</a>
+          <ul class="dropdown-menu">
+            <li><a href="#bar" onclick="window.location.href='all-restaurants-menu/items.html?cat=Bar'">Bar</a></li>
+            <li><a href="#kitchen" onclick="window.location.href='all-restaurants-menu/items.html?cat=Kitchen'">Kitchen</a></li>
+            <li><a href="#favorites">Favorites</a></li>
+          </ul>
+        </li>
+
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><a class="reservation-top-memu" href="#reservation" type="submit">Book Now</a></li>
+      </ul>
+
+      <div class="hamburger"><span>&#9776;</span><span>&#9776;</span><span>&#9776;</span></div>
+    </div>
+  </nav>
+
+
+  <!-- 🌟 Hero Section with Slideshow -->
+  <header class="hero scroll-reveal">
+    <div class="slider">
+      <!-- شريحة 1 -->
+      <div class="slide active">
+        <img src="all-restaurants-menu/images/slide1.jpg" alt="Welcome Dish" />
+        <div class="text">
+          <h1>Welcome to Our Restaurant</h1>
+          <p>Enjoy the finest dishes and drinks</p>
+          <a href="#menu" class="btn">Explore Menu</a>
+        </div>
+      </div>
+
+      <!-- شريحة 2 -->
+      <div class="slide">
+        <img src="all-restaurants-menu/images/slide2.jpg" alt="Delicious Food" />
+        <div class="text">
+          <h1>Fresh Ingredients</h1>
+          <p>Handpicked for your satisfaction</p>
+          <a href="#menu" class="btn">Discover More</a>
+        </div>
+      </div>
+
+      <!-- شريحة 3 -->
+      <div class="slide">
+        <img src="all-restaurants-menu/images/slide3.jpg" alt="Bar View" />
+        <div class="text">
+          <h1>Elegant Bar Experience</h1>
+          <p>From cocktails to classics</p>
+          <a href="#menu" class="btn">See Drinks</a>
+        </div>
+      </div>
+    </div>
+
+    <!-- أسهم التنقل بين الشرائح -->
+    <button class="prev" aria-label="Previous Slide">&#10094;</button>
+    <button class="next" aria-label="Next Slide">&#10095;</button>
+    
+  </header>
+  <!-- 🌟  Section about-->
+  <section id="about" class="about-section scroll-reveal">
+    <h1 class="about-us-title">About Us</h1>
+    <div class="about-container">
+
+      <div class="about-image">
+        <img src="all-restaurants-menu/images/about.jpg" alt="About Us">
+      </div>
+      <div class="about-text">
+
+        <h2>🌟 A Fusion of East and West – Where Flavors Meet Elegance</h2>
+        <p>
+
+          At our restaurant, tradition and innovation come together in perfect harmony.
+          We proudly serve an exquisite blend of Eastern and European cuisines, crafted with passion and authenticity.
+          From rich Middle Eastern spices to elegant French sauces and hearty Italian pastas, each dish tells a story.
+          Our chefs bring decades of experience to your table, using only the finest and freshest ingredients.
+          Whether you're craving a sizzling kebab or a creamy risotto, you'll find a dish to satisfy every palate.
+          Step into our warm and welcoming atmosphere, where culture and comfort create unforgettable moments.
+          We believe that food is more than nourishment—it’s a connection to heritage and heart.
+          Our interior blends oriental charm with European sophistication for a unique dining experience.
+          Perfect for romantic dinners, family gatherings, or business lunches, we cater to every occasion.
+          Come taste the journey—one plate, two worlds, endless delight.
+
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+
+  <!-- Sections for Menu -->
+
+  <!-- bar Section -->
+  <section id="bar" class="menu-section scroll-reveal">
+    <h2>Bar</h2>
+
+    <div class="bar-slider">
+      <div id="bar-track" class="bar-track">
+        <!-- Favorite Item 1 -->
+       
+        <!-- يمكن إضافة المزيد من الوجبات بنفس النمط -->
+      </div>
+    </div>
+    <a href="#" onclick="window.location.href='all-restaurants-menu/items.html?cat=Bar'" class="btn btn-more">More</a>
+  </section>
+
+
+  <!-- kitchen Section -->
+  <section id="kitchen" class="menu-section scroll-reveal">
+    <h2>Kitchen</h2>
+
+    <div class="bar-slider">
+      <div class="bar-track" id="kitchen-track">
+        <!-- Favorite Item 1 -->
+      
+        <!-- يمكن إضافة المزيد من الوجبات بنفس النمط -->
+      </div>
+    </div>
+    <a href="#" onclick="window.location.href='all-restaurants-menu/items.html?cat=Kitchen'" class="btn btn-more">More</a>
+  </section>
+
+  <!-- Favorites Section -->
+  <section id="favorites" class="menu-section scroll-reveal">
+    <h2>Favorites</h2>
+
+    <div class="favorite-slider">
+      <div id="favorites-track" class="favorites-track">
+        <!-- Favorite Item 1 -->
+    
+        
+        <!-- يمكن إضافة المزيد من الوجبات بنفس النمط -->
+      </div>
+    </div>
+  </section>
+  <!-- Team Section -->
+  <!-- Team Section -->
+  <section id="team" class="team-section scroll-reveal">
+    <h2>Meet Our Team</h2>
+    <div class="team-slider">
+      <div class="team-track">
+        <!-- Team Member Cards -->
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/chef1.jpg" alt="Chef John Doe">
+          <h4>John Doe</h4>
+          <p>Head Chef</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/chef2.jpg" alt="Chef Lisa Chen">
+          <h4>Lisa Chen</h4>
+          <p>Sous Chef</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/waiter1.jpg" alt="Waiter Mike Johnson">
+          <h4>Mike Johnson</h4>
+          <p>Waiter</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/waitress1.jpg" alt="Waitress Emily Rose">
+          <h4>Emily Rose</h4>
+          <p>Waitress</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/bartender1.jpg" alt="Bartender Sarah Smith">
+          <h4>Sarah Smith</h4>
+          <p>Bartender</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/manager1.jpg" alt="Manager Anna Lee">
+          <h4>Anna Lee</h4>
+          <p>Manager</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/waiter1.jpg" alt="Waiter Mike Johnson">
+          <h4>Mike Johnson</h4>
+          <p>Waiter</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/waitress1.jpg" alt="Waitress Emily Rose">
+          <h4>Emily Rose</h4>
+          <p>Waitress</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/bartender1.jpg" alt="Bartender Sarah Smith">
+          <h4>Sarah Smith</h4>
+          <p>Bartender</p>
+        </div>
+        <div class="team-member">
+          <img src="all-restaurants-menu/images/manager1.jpg" alt="Manager Anna Lee">
+          <h4>Anna Lee</h4>
+          <p>Manager</p>
+        </div>
+        <!-- أضف المزيد حسب الحاجة -->
+      </div>
+    </div>
+  </section>
+   <!-- reservation -->
+   <section id="reservation" class="reservation-section scroll-reveal">
+    <h2 class="title">reservation</h2>
+    <div class="reservation-overlay">
+      <div class="container">
+        <h2>Reserve a Table</h2>
+        <p>Book your dining experience with us now!</p>
+        <form class="reservation-form">
+          <input type="text" name="name" placeholder="Your Name" required>
+          <input type="email" name="email" placeholder="Your Email" required>
+          <input type="date" name="date" required>
+          <input type="time" name="time" required>
+          <input type="number" name="guests" placeholder="Number of Guests" min="1" required>
+          <button type="submit">Book Now</button>
+        </form>
+      </div>
+    </div>
+  </section>
+  
+  
+  <section id="contact" class="contact-section scroll-reveal">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <form id="contact-form">
+        <div class="form-group">
+          <label for="name">Full Name</label>
+          <input type="text" id="name" name="name" placeholder="Enter your name" required>
+        </div>
+        <div class="form-group">
+          <label for="email">Email Address</label>
+          <input type="email" id="email" name="email" placeholder="example@email.com" required>
+        </div>
+        <div class="form-group">
+          <label for="message">Your Message</label>
+          <textarea id="message" name="message" rows="5" placeholder="Type your message here" required></textarea>
+        </div>
+        <button type="submit" class="btn">Send</button>
+      </form>
+      <p id="form-status" class="form-status"></p>
+    </div>
+  </section>
+  <footer class="footer scroll-reveal">
+    <div class="footer-container">
+      <div class="footer-about">
+        <h3>About Us</h3>
+        <p>We offer quality services and products to make your experience unforgettable. Thank you for choosing us!</p>
+      </div>
+
+      <div class="footer-links">
+        <h3>Quick Links</h3>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#menu">Menu</a></li>
+          <li><a href="#favorites">Favorites</a></li>
+          <li><a href="#team">Team</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-contact">
+        <h3>Contact</h3>
+        <p>Phone: +49 171 9481424</p>
+        <p>Email: info@example.com</p>
+        <p>Address: Lug ins Land 28, Hann Münden</p>
+      </div>
+    </div>
+    <div class="footer-social">
+      <h3>Follow Us</h3>
+      <div class="social-icons">
+        <a href="https://facebook.com" target="_blank" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+        <a href="https://twitter.com" target="_blank" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+        <a href="https://instagram.com" target="_blank" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+        <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; <span id="year">
+          <script>
+            document.getElementById("year").textContent = new Date().getFullYear();
+          </script>
+        </span> Your Website Name. All rights reserved.</p>
+    </div>
+  </footer>
+  <button id="backToTop" title="Go to top">↑</button>
+
+  <!-- ملف الجافا سكريبت -->
+  <script src="all-restaurants-menu/assets/assets.js"></script>
+  <script src="all-restaurants-menu/javascript.js"></script>
+  <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/68304c34c7d37e190f34f9ef/1iruajb34';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+
+
+  </script>
+  <!--End of Tawk.to Script-->
+</body>
+
+</html>
