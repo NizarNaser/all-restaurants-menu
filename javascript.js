@@ -157,7 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
     toppings.forEach(item => {
       const div = document.createElement("div");
       div.className = "favorite-item";
-      div.onclick = () => location.href = `/dish-details.html?id=${item._id}`;
+      div.onclick = () => location.href = `/all-restaurants-menu/dish-details.html?id=${item._id}`;
 
       div.innerHTML = `
         <img src="${item.image}" alt="${item.name}" />
@@ -195,7 +195,7 @@ document.addEventListener("DOMContentLoaded", () => {
     toppings.forEach(item => {
       const div = document.createElement("div");
       div.className = "bar-item";
-      div.onclick = () => location.href = `/dish-details.html?id=${item._id}`;
+      div.onclick = () => location.href = `/all-restaurants-menu/dish-details.html?id=${item._id}`;
   
       div.innerHTML = `
         <img src="${item.image}" alt="${item.name}" />
@@ -233,7 +233,7 @@ document.addEventListener("DOMContentLoaded", () => {
       toppings.forEach(item => {
         const div = document.createElement("div");
         div.className = "bar-item";
-        div.onclick = () => location.href = `/dish-details.html?id=${item._id}`;
+        div.onclick = () => location.href = `/all-restaurants-menu/dish-details.html?id=${item._id}`;
     
         div.innerHTML = `
           <img src="${item.image}" alt="${item.name}" />
