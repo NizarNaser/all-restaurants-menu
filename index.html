@@ -32,8 +32,8 @@
   <!-- Navbar -->
   <nav class="navbar" >
     <div class="nav-container">
-      <a href="all-restaurants-menu/index.html" class="logo">
-        <img src="all-restaurants-menu/images/logo.png" alt="Restaurant Logo">
+      <a href="/index.html" class="logo">
+        <img src="/images/logo.png" alt="Restaurant Logo">
 
       </a>
 
@@ -43,8 +43,8 @@
         <li class="dropdown">
           <a id="menu" href="#menu">Menu</a>
           <ul class="dropdown-menu">
-            <li><a href="#bar" onclick="window.location.href='all-restaurants-menu/items.html?cat=Bar'">Bar</a></li>
-            <li><a href="#kitchen" onclick="window.location.href='all-restaurants-menu/items.html?cat=Kitchen'">Kitchen</a></li>
+            <li><a href="#bar" onclick="window.location.href='/items.html?cat=Bar'">Bar</a></li>
+            <li><a href="#kitchen" onclick="window.location.href='/items.html?cat=Kitchen'">Kitchen</a></li>
             <li><a href="#favorites">Favorites</a></li>
           </ul>
         </li>
@@ -64,7 +64,7 @@
     <div class="slider">
       <!-- شريحة 1 -->
       <div class="slide active">
-        <img src="all-restaurants-menu/images/slide1.jpg" alt="Welcome Dish" />
+        <img src="images/slide1.jpg" alt="Welcome Dish" />
         <div class="text">
           <h1>Welcome to Our Restaurant</h1>
           <p>Enjoy the finest dishes and drinks</p>
@@ -74,7 +74,7 @@
 
       <!-- شريحة 2 -->
       <div class="slide">
-        <img src="all-restaurants-menu/images/slide2.jpg" alt="Delicious Food" />
+        <img src="images/slide2.jpg" alt="Delicious Food" />
         <div class="text">
           <h1>Fresh Ingredients</h1>
           <p>Handpicked for your satisfaction</p>
@@ -84,7 +84,7 @@
 
       <!-- شريحة 3 -->
       <div class="slide">
-        <img src="all-restaurants-menu/images/slide3.jpg" alt="Bar View" />
+        <img src="images/slide3.jpg" alt="Bar View" />
         <div class="text">
           <h1>Elegant Bar Experience</h1>
           <p>From cocktails to classics</p>
@@ -104,7 +104,7 @@
     <div class="about-container">
 
       <div class="about-image">
-        <img src="all-restaurants-menu/images/about.jpg" alt="About Us">
+        <img src="images/about.jpg" alt="About Us">
       </div>
       <div class="about-text">
 
@@ -142,7 +142,7 @@
         <!-- يمكن إضافة المزيد من الوجبات بنفس النمط -->
       </div>
     </div>
-    <a href="#" onclick="window.location.href='all-restaurants-menu/items.html?cat=Bar'" class="btn btn-more">More</a>
+    <a href="#" onclick="window.location.href='/items.html?cat=Bar'" class="btn btn-more">More</a>
   </section>
 
 
@@ -153,11 +153,49 @@
     <div class="bar-slider">
       <div class="bar-track" id="kitchen-track">
         <!-- Favorite Item 1 -->
-      
+        <div class="bar-item">
+          <img src="images/burger.jpg" alt="Cheeseburger" />
+          <h4>Cheeseburger</h4>
+          <p>Juicy grilled beef with cheese, lettuce, and tomato.</p>
+          <div class="price">
+            <span class="original-price">€8.50</span>
+            <span class="discounted-price">€7.00</span>
+          </div>
+        </div>
+        <!-- Favorite Item 2 -->
+        <div class="bar-item">
+          <img src="images/pizza.jpg" alt="Margherita Pizza" />
+          <h4>Margherita Pizza</h4>
+          <p>Classic pizza with fresh tomatoes, mozzarella, and basil.</p>
+          <div class="price">
+            <span class="original-price">€9.00</span>
+            <span class="discounted-price">€7.50</span>
+          </div>
+        </div>
+        <!-- Favorite Item 3 -->
+        <div class="bar-item">
+          <img src="images/caesar_salad.jpg" alt="Caesar Salad" />
+          <h4>Caesar Salad</h4>
+          <p>Crisp romaine lettuce with creamy Caesar dressing.</p>
+          <div class="price">
+            <span class="original-price">€6.50</span>
+            <span class="discounted-price">€5.50</span>
+          </div>
+        </div>
+        <!-- Favorite Item 4 -->
+        <div class="bar-item">
+          <img src="images/fried_chicken.jpg" alt="Fried Chicken" />
+          <h4>Fried Chicken</h4>
+          <p>Golden crispy fried chicken served with spicy sauce.</p>
+          <div class="price">
+            <span class="original-price">€10.00</span>
+            <span class="discounted-price">€8.00</span>
+          </div>
+        </div>
         <!-- يمكن إضافة المزيد من الوجبات بنفس النمط -->
       </div>
     </div>
-    <a href="#" onclick="window.location.href='all-restaurants-menu/items.html?cat=Kitchen'" class="btn btn-more">More</a>
+    <a href="#" onclick="window.location.href='/items.html?cat=Kitchen'" class="btn btn-more">More</a>
   </section>
 
   <!-- Favorites Section -->
@@ -181,52 +219,52 @@
       <div class="team-track">
         <!-- Team Member Cards -->
         <div class="team-member">
-          <img src="all-restaurants-menu/images/chef1.jpg" alt="Chef John Doe">
+          <img src="images/chef1.jpg" alt="Chef John Doe">
           <h4>John Doe</h4>
           <p>Head Chef</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/chef2.jpg" alt="Chef Lisa Chen">
+          <img src="images/chef2.jpg" alt="Chef Lisa Chen">
           <h4>Lisa Chen</h4>
           <p>Sous Chef</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/waiter1.jpg" alt="Waiter Mike Johnson">
+          <img src="images/waiter1.jpg" alt="Waiter Mike Johnson">
           <h4>Mike Johnson</h4>
           <p>Waiter</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/waitress1.jpg" alt="Waitress Emily Rose">
+          <img src="images/waitress1.jpg" alt="Waitress Emily Rose">
           <h4>Emily Rose</h4>
           <p>Waitress</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/bartender1.jpg" alt="Bartender Sarah Smith">
+          <img src="images/bartender1.jpg" alt="Bartender Sarah Smith">
           <h4>Sarah Smith</h4>
           <p>Bartender</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/manager1.jpg" alt="Manager Anna Lee">
+          <img src="images/manager1.jpg" alt="Manager Anna Lee">
           <h4>Anna Lee</h4>
           <p>Manager</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/waiter1.jpg" alt="Waiter Mike Johnson">
+          <img src="images/waiter1.jpg" alt="Waiter Mike Johnson">
           <h4>Mike Johnson</h4>
           <p>Waiter</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/waitress1.jpg" alt="Waitress Emily Rose">
+          <img src="images/waitress1.jpg" alt="Waitress Emily Rose">
           <h4>Emily Rose</h4>
           <p>Waitress</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/bartender1.jpg" alt="Bartender Sarah Smith">
+          <img src="images/bartender1.jpg" alt="Bartender Sarah Smith">
           <h4>Sarah Smith</h4>
           <p>Bartender</p>
         </div>
         <div class="team-member">
-          <img src="all-restaurants-menu/images/manager1.jpg" alt="Manager Anna Lee">
+          <img src="images/manager1.jpg" alt="Manager Anna Lee">
           <h4>Anna Lee</h4>
           <p>Manager</p>
         </div>
@@ -321,8 +359,8 @@
   <button id="backToTop" title="Go to top">↑</button>
 
   <!-- ملف الجافا سكريبت -->
-  <script src="all-restaurants-menu/assets/assets.js"></script>
-  <script src="all-restaurants-menu/javascript.js"></script>
+  <script src="./assets/assets.js"></script>
+  <script src="javascript.js"></script>
   <!--Start of Tawk.to Script-->
 <script type="text/javascript">
   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();

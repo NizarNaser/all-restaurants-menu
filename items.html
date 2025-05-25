@@ -15,11 +15,11 @@
     <link rel="stylesheet" href="style.css" />
 
     <!-- أيقونة الموقع (favicon) -->
-    <link rel="icon" href="all-restaurants-menu/images/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" sizes="180x180" href="all-restaurants-menu/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="all-restaurants-menu/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="all-restaurants-menu/images/favicon-16x16.png">
-    <link rel="manifest" href="all-restaurants-menu/images/site.webmanifest">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+    <link rel="manifest" href="images/site.webmanifest">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
 </head>
@@ -28,19 +28,19 @@
     <!-- Navbar -->
     <nav class="navbar" >
         <div class="nav-container">
-          <a href="all-restaurants-menu/index.html" class="logo">
-            <img src="all-restaurants-menu/images/logo.png" alt="Restaurant Logo">
+          <a href="/index.html" class="logo">
+            <img src="images/logo.png" alt="Restaurant Logo">
     
           </a>
     
           <ul class="nav-links">
-            <li><a href="all-restaurants-menu/index.html">Home</a></li>
+            <li><a href="/index.html">Home</a></li>
     
             <li class="dropdown">
               <a id="menu" href="#menu">Menu</a>
               <ul class="dropdown-menu">
-                <li><a href="#bar" onclick="window.location.href='all-restaurants-menu/items.html?cat=Bar'">Bar</a></li>
-            <li><a href="#kitchen" onclick="window.location.href='all-restaurants-menu/items.html?cat=Kitchen'">Kitchen</a></li>
+                <li><a href="#bar" onclick="window.location.href='/items.html?cat=Bar'">Bar</a></li>
+            <li><a href="#kitchen" onclick="window.location.href='/items.html?cat=Kitchen'">Kitchen</a></li>
                 <li><a href="#favorites">Favorites</a></li>
               </ul>
             </li>
@@ -55,7 +55,7 @@
       </nav>
 
     <!-- Full-width Hero Image -->
-    <div class="dish-hero scroll-reveal" style="background-image: url('all-restaurants-menu/images/bar.jpg');"></div>
+    <div class="dish-hero scroll-reveal" style="background-image: url('images/bar.jpg');"></div>
 
     <!-- Sections categoris -->
 
@@ -76,7 +76,7 @@
             <h3>Beer</h3>
             <ul class="items-list">
                 <li class="item" onclick="location.href='dish-details.html?id=1'">
-                    <img src="all-restaurants-menu/images/beers/heineken.jpg" alt="Heineken Beer" class="item-img" />
+                    <img src="images/beers/heineken.jpg" alt="Heineken Beer" class="item-img" />
                     <div class="item-details">
                         <h4>Heineken</h4>
                         <p>Refreshing pale lager beer.</p>
@@ -154,7 +154,7 @@
 
     <!-- ملف الجافا سكريبت -->
     <!-- ملف الجافا سكريبت -->
-    <script src="all-restaurants-menu/assets/assets.js"></script>
+    <script src="./assets/assets.js"></script>
     <script>  const revealElements = document.querySelectorAll('.scroll-reveal');
 
         const revealOnScroll = () => {
