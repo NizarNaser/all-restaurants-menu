@@ -90,14 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }, 3000);
   });
-  const contactForm = document.getElementById("contact-form");
-  if (contactForm) {
-    contactForm.addEventListener("submit", function (e) {
-      e.preventDefault();
-      document.getElementById("form-status").textContent = "✅ Your message has been sent successfully!";
-      this.reset();
-    });
-  }
+
   
     
 
