@@ -335,26 +335,7 @@
   s0.parentNode.insertBefore(s1,s0);
   })();
 
-  const form = document.getElementById("contact-form");
-  const status = document.getElementById("form-status");
 
-  form.addEventListener("submit", function (e) {
-    e.preventDefault();
-    const data = new FormData(form);
-
-    fetch("contact.php", {
-      method: "POST",
-      body: data
-    })
-      .then(response => response.text())
-      .then(result => {
-        status.innerText = result;
-        form.reset();
-      })
-      .catch(error => {
-        status.innerText = "حدث خطأ أثناء الإرسال!";
-      });
-  });
 
 
   </script>
